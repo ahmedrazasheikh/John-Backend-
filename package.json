@@ -1,6 +1,7 @@
 {
   "name": "connect-mongose-to-express",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "node --watch index.js",
@@ -12,7 +13,6 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "@firebase/app": "^0.9.3",
     "bcrypt-inzi": "^1.0.7",
     "body-parser": "^1.20.1",
     "cookie-parser": "^1.4.6",
@@ -29,6 +29,5 @@
     "morgan": "^1.10.0",
     "multer": "^1.4.5-lts.1",
     "nodemailer": "^6.9.1"
-  },
-  "description": ""
+  }
 }

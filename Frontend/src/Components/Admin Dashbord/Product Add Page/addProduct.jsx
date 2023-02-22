@@ -113,7 +113,6 @@ setDescription(e.target.value)
         type="file"
         name="file-input"
         id="file-input"
-        accept="image/*"
         class="file-input__input"
       />
       <label class="file-input__label" for="file-input">
